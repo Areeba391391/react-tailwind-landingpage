@@ -7,7 +7,7 @@ import './App.css'
 import Navbar from './components/Navbar'
 import Hero from './components/Hero';
 import CompanyLogo from './components/CompanyLogo';
-import Purpose from './components/purpose';
+import Purpose from './components/Purpose';
 import Schedule from './components/Schedule';
 import Monitor from './components/Monitor';
 import Services from './components/Services';
